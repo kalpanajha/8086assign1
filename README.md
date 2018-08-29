@@ -1,5 +1,6 @@
 ## ISQA 8086 Project Repository
 This is my personal repository to submit my assignments for ISQA 8086 class.
+[Repository](https://github.com/kalpanajha/8086assign1)
 
 ### Instructor
 
