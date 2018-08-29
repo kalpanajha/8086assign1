@@ -11,7 +11,7 @@ This is my personal repository where I will be submitting my individaul assignme
 ### License Information
 This repository is licensed under GNU General Public License
 
-### Contributor
+### Contributor:
 Kalpana Jha
 
 ### List of Files
