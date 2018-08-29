@@ -10,7 +10,8 @@ Dr. Andrea Wiggins
 This is my personal repository where I will be submitting my individaul assignments, assigned in this class. 
 
 ### License Information
-This repository is licensed under **GNU General Public License**
+This repository is licensed under **GNU General Public License**. 
+[click here](https://github.com/kalpanajha/8086assign1/blob/master/LICENSE)
 
 ### Contributor:
 Kalpana Jha
