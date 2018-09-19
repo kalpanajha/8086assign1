@@ -10,7 +10,7 @@
 6. The graphs doesn't provide any clear understanding of what they want to represent. Also, what the horizontal and the vertical axis represents are not labeled explicitly.
 7. According to the information provided about study the investigators wanted to examine the day-night distribution of 2 species of zooplankton across multiple years, however, the data provided doesn't mention whether the samples were collected during day time or night time.
 
-## Suggestions ##
+## Suggestions for new system of Organization ##
 
 1. All Columns should be labeled properly so that it is easy to understand what they represent. 
 2. Explain why the datas are missing.
