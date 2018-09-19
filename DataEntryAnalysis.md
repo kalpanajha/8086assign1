@@ -17,6 +17,7 @@
 2. Explain why the datas are missing.
 3. Graphs should be plotted and labeled properly.
 4. Mention the time of the samples collected. 
+5. Mention the location from where samples are collected.
 
 ## New Format ##
 
