@@ -1,7 +1,7 @@
 
 # Data Entry Analysis #
 
-## Errors that I found on the three files ##
+## Issues that I found on Data Entry in the three files ##
 1. 'pond2010(1).xlsx' file has missing coulumn name, which creates confusion about the data content.
 2. Also in the same file there are missing values for some of the data collected.
 3. zoop-temp-main file has missing temperature data.
