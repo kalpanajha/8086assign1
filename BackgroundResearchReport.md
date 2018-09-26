@@ -5,6 +5,8 @@
 “Old Woman Creek National Estuarine Research Reserve is part of a network of 28 coastal reserves connected nationally through the National Oceanic and Atmospheric Administration (NOAA) to address state and regional coastal management needs through research, education, and stewardship”. 
 Located in Huron, Ohio, it is one of the few examples of state’s natural existing estuary. It is also an Ohio State Nature Preserve. The estuary also serves as a field laboratory where scientists and students studies this naturally functioning system. “The reserve is a cooperative partnership between the Ohio Department of Natural Resources and the National Oceanic and Atmospheric Administration”. To protect the Old Woman Creek estuary, the sanctuary is managed by ODNR’s Division of Natural Areas and Preserves. The Natural Areas Act was enacted by the state of Ohio in 1970 and authorized ODNR to accept any dedication of public and privately owned lands as nature preserves. 
 “Planning, acquisition and protection of the Old Woman Creek Estuary as a National Estuarine Sanctuary and State Nature Preserve has been a seven year effort by a multitude of individuals, organizations and agencies at local, state, and national levels. 
+
+### Goal ###
 “The basic goal is to preserve as much of the Old Woman Creek Estuary and its watershed as possible so that information can be gained which will aid in future management decisions concerning coastal zone”, and the secondary benefit associated with it is “the preservation of habitats for estuarine-dependent flora and fauna, including endangered species; and low intensity recreation, as long as that activity does not detract from the major purposes outlined above. 
 
 ### Mission ###
